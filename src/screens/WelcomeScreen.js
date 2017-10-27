@@ -7,7 +7,7 @@ import Slides from "../components/Slides";
 import { PRIMARY_COLOR, SECONDARY_COLOR } from "../constants/style";
 
 const SLIDE_DATA = [
-  { text: "Welcome to Your Starter Project.", color: SECONDARY_COLOR },
+  { text: "Welcome.", color: SECONDARY_COLOR },
   { text: "The more awesome you make this app...", color: PRIMARY_COLOR },
   { text: "...the more awesome it will be.", color: SECONDARY_COLOR }
 ];
